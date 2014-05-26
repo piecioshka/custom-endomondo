@@ -1,0 +1,6 @@
+/* hide useless containers */
+
+.column.news:first-child,
+#lowerSidebar {
+    display: none !important;
+}
