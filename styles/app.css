@@ -1,6 +1,7 @@
 /* hide useless containers */
 
-.column.news:first-child,
+.innerWidget.my-pages,
+.column.news > div:first-child,
 #lowerSidebar {
     display: none !important;
 }

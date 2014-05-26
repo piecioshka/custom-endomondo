@@ -19,12 +19,13 @@
         build: function () {
             this.el.setAttribute('type', 'text/css');
             this.el.setAttribute('rel', 'stylesheet');
-            this.el.setAttribute('media', 'print');
+            this.el.setAttribute('media', 'all');
             this.el.setAttribute('href', Styles.STYLE_FILE);
         },
 
         render: function () {
-            document.getElementsByTagName('head')[0].appendChild(this.el);
+            var headSection = document.getElementsByTagName('head')[0];
+            headSection.appendChild(this.el);
         }
     };
 
