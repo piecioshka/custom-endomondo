@@ -1,23 +1,18 @@
 {
+    "name": "Endomondo - hide right column",
     "manifest_version": 2,
-
-    "name": "Helper: endomondo.com",
-    "version": "2.0",
-
+    "version": "0.0.1",
     "icons": {
-        "48": "images/Thumbnail-48x48.png"
+        "32": "images/32x32.png",
+        "48": "images/48x48.png",
+        "128": "images/128x128.png"
     },
 
-    "content_scripts": [{
-        "matches": [
-            "*://www.endomondo.com/**",
-            "*://endomondo.com/**"
-        ],
-
-        "js": ["scripts/app.js"]
-    }],
-
-    "web_accessible_resources": [
-        "styles/app.css"
+    "content_scripts": [
+        {
+            "matches": [ "*://www.endomondo.com/**", "*://endomondo.com/**" ],
+            "css": ["scripts/default.css"]
+        }
     ]
 }
+

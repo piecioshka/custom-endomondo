@@ -1,23 +1,9 @@
-GitHub Print
-============
+# ![Image](https://raw.githubusercontent.com/piecioshka/endomondo-hide-right-column/master/icons/32x32.png) Endomondo - hide right column
 
-Print `*.md` file without unnecessary containers, ex. `README.md`
+If you doesn't have see right column (sidebar) on your list of tasks in **Endomondo** use this extension for Google Chrome.
 
-Plugin use CSS Style injection to set `display: none` on useless elements.
-
-Installation
-============
-
-0. Fork
-0. Load extension by *Google Chrome Extension Manager*
-0. Refresh `http://github.com/**` page with opened file using markdown style.
-0. **Print your page!**
-
-License
-=======
+# License
 
 [The MIT License][0]
 
-[0]: http://piecioshka.mit-license.org
-
-
+[0]: http://piecioshka.mit-license.org/
