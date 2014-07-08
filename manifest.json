@@ -1,11 +1,11 @@
 {
     "name": "Custom Endomondo",
     "manifest_version": 2,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icons": {
-        "32": "icons/32x32.png",
-        "48": "icons/48x48.png",
-        "128": "icons/128x128.png"
+        "32": "images/thumbs/32x32.png",
+        "48": "images/thumbs/48x48.png",
+        "128": "images/thumbs/128x128.png"
     },
 
     "content_scripts": [
