@@ -1,4 +1,4 @@
-# ![Image](https://raw.githubusercontent.com/piecioshka/endomondo-hide-right-column/master/icons/32x32.png) Endomondo - hide right column
+# ![Image](https://raw.githubusercontent.com/piecioshka/custom-endomondo/master/icons/32x32.png) Custom Endomondo
 
 If you doesn't have see right column (sidebar) on your profile in **Endomondo** use this extension for Google Chrome.
 

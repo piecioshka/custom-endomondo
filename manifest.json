@@ -1,5 +1,5 @@
 {
-    "name": "Endomondo - hide right column",
+    "name": "Custom Endomondo",
     "manifest_version": 2,
     "version": "0.0.1",
     "icons": {
@@ -15,4 +15,3 @@
         }
     ]
 }
-
