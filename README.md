@@ -1,9 +1,16 @@
-# ![Image](https://raw.githubusercontent.com/piecioshka/custom-endomondo/master/images/thumbs/32x32.png) Custom Endomondo
+# ![](https://raw.githubusercontent.com/piecioshka/custom-endomondo/master/images/thumbs/32x32.png) Custom Endomondo
+
+🧩 Chrome extension to customize Endomondo
 
 If you doesn't have see right column (sidebar) on your profile in **Endomondo** use this extension for Google Chrome.
 
-# License
+## Installation
 
-[The MIT License][0]
+- Open chrome://extensions/
+- Enable developer mode
+- Click on "Load unpacked"
+- Select the folder where the extension is located
 
-[0]: http://piecioshka.mit-license.org/
+## License
+
+[The MIT License](https://piecioshka.mit-license.org/) @ 2014
